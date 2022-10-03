@@ -1,0 +1,16 @@
+body{
+font-family:"Georgia","Times New Roman",sans-serif;
+}
+
+h1{
+font-weight:800;
+background-color:#f4b41a;
+color:#143d59;
+text-align:center;
+}
+
+a{
+font-size:18px;
+background-color:#ffe042;
+color:#e71989;
+}

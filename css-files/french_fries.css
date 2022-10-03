@@ -1,0 +1,25 @@
+h1,h2{
+font-weight:800;
+background-color:#f4b41a;
+color:#143d59;
+text-align:center;
+}
+
+body{
+font-family:"Georgia","Times New Roman",sans-serif;
+}
+
+img{
+width:400px;
+height:auto;
+}
+
+li{
+font-family:"Courier New", sans-serif;
+background-color:black;
+color:white;
+}
+
+p{
+font-family:"Courier New", sans-serif;
+}
